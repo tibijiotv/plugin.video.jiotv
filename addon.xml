@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.jiotv" name="JioTV" version="2.3.0" provider-name="botallen">
+<addon id="plugin.video.jiotv" name="JioTV" version="2.3.0" provider-name="tibijiotv">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.codequick" version="1.0.2"/>
@@ -22,7 +22,7 @@
         <forum>https://botallen.com/discord</forum>
         <website>https://botallen.com</website>
         <email>kodi@botallen.com</email>
-        <source>https://github.com/krreet/plugin.video.jiotv</source>
+        <source>https://github.com/tibijiotv/plugin.video.jiotv</source>
         <news>
 [- 2.3.0 -]
 [added] more extra channels
